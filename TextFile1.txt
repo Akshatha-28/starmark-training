@@ -1,0 +1,3 @@
+﻿1. Created a class with required properties.
+2. Created one repository class to add disease details,symptoms.
+3.Not done with UI Part due to confusion with enum.
